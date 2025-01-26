@@ -1,0 +1,17 @@
+#box1 {
+    height: 100px;
+    width: 200px;
+    font-size: 10px;
+    background-color: aqua;
+}
+
+#box2 {
+    height: 50px;
+    width: 50px;
+    background-color: chartreuse;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5rem;
+    /* The em basically used for font size if the size of em is 1 then it will same as previous size 
+    & if i put 2 em then it will twice than the other font-size  if it 5em then it will 5 times bigger*/
+}

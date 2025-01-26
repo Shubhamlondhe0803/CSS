@@ -1,0 +1,28 @@
+div {
+    height: 100px;
+    width: 100px;
+    margin: 2px;
+    border: 2px solid black;
+    background-color: blueviolet;
+    /* transition: all;
+    transition-duration: 2s;
+    transition-timing-function: steps(3);
+    transition-delay: 1s; */
+    transition: all 2s ease-in 1s;
+}
+
+div:hover {
+    background-color: pink;
+    color: white;
+}
+
+div:active {
+    color: aqua;
+    background-color: chartreuse;
+    font-size: 10px;
+}
+
+
+/* In div:hover{ when we put a mouse on button the color of the butto will change 
+  /* And in div:Active { If we hold the mouse on button then it will change the color.....
+  This two methods are mainly ued in Transitions...  */

@@ -1,0 +1,30 @@
+            * {
+                border: 25px;
+                div {
+                    text-align: start;
+                    height: 60px;
+                    background-color: aqua;
+                    width: 600px;
+                    margin: 20px;
+                    border-width: 20px;
+                    border-style: double;
+                    border-color: black;
+                    text-align: center;
+                    border-radius: 10px;
+                    padding-left: 350px;
+                    padding-right: 100px;
+                }
+                h1 {
+                    height: 80px;
+                    width: 300px;
+                    margin: 50px;
+                    border-width: 1px;
+                    border-style: double;
+                    background-color: pink;
+                    border-color: blueviolet;
+                    text-align: center;
+                    border-radius: 20px;
+                    padding-left: 20px;
+                    padding-right: 30px;
+                }
+            }

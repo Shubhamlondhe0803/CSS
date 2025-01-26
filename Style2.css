@@ -1,0 +1,74 @@
+/* #myclass {
+    color: red;
+}
+
+#box {
+    background-color: black;
+    color: white;
+}
+
+
+/* .Heading {
+    color: red;
+} */
+
+
+/* 
+h1,
+h2,
+h3 {
+    color: red;
+    /* It also Work with Comas separatly */
+
+
+/* p {
+    text-align: left;
+    text-decoration: wavy;
+    font-weight: lighter;
+} */
+
+a {
+    text-decoration: none;
+}
+
+#a {
+    font-weight: 100;
+}
+
+#b {
+    font-weight: 400;
+}
+
+#c {
+    font-weight: 560;
+}
+
+#d {
+    font-weight: 900;
+}
+
+#one {
+    font-family: 'Times New Roman';
+}
+
+#two {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+/* #one {
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+#two {
+    font-size: 16px;
+    line-height: 25px;
+    text-transform: capitalize;
+} */
+
+h1 {
+    text-align: center;
+    font-family: capitalize;
+}

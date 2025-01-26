@@ -1,0 +1,26 @@
+    * {
+        padding: 00px;
+        margin: 10px;
+        background-color: white;
+        font-size: 22px;
+    }
+    
+    #Navbar {
+        height: 60px;
+        background-color: violet;
+        font-size: 25px;
+    }
+    
+    button {
+        background-color: #f08804;
+    }
+    
+    #logo {
+        color: #f08804;
+        font-size: 25px;
+    }
+    
+    a {
+        text-decoration: none;
+        margin-right: 00px;
+    }

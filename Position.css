@@ -1,0 +1,27 @@
+        div {
+            height: 200px;
+            width: 200px;
+            background-color: aqua;
+            border: 2px solid black;
+            display: inline;
+        }
+        
+        body {
+            background-image: url("background.jpeg.jpg");
+            background-size: cover;
+        }
+        /* #box2 {
+    position: relative;
+    top: 20px;
+    left: 10px
+} */
+        /* #box4 {
+
+right: 10px;
+bottom: 00px;
+position: fixed;
+width: 100%;
+
+}
+
+/* box 4 properties are mostly used for create a footer */

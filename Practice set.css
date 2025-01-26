@@ -1,0 +1,22 @@
+        .Loader {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            border: 20px solid #FFE66D;
+            border-top: 15px solid #4ECDC4;
+            Animation: spinAnimation 1s ease-in-out 0s infinite normal;
+            /* background-color: pink; */
+        }
+        /* Kontya yeka Specific side la jer border pahije aasel ter fakt
+        border-top: 10px Solid black;
+        border-bottom: 10px solid black;
+        border-left : 10px solid black;*/
+        
+        @keyframes spinAnimation {
+            from {
+                transform: rotate(0deg);
+            }
+            to {
+                transform: rotate(360deg);
+            }
+        }

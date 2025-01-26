@@ -1,0 +1,35 @@
+body {
+    text-align: Center;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#Container {
+    width: 800px;
+    height: 300px;
+    display: flex;
+    border: 2px thick black;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#box1 {
+    background-color: aqua;
+}
+
+#box2 {
+    background-color: brown;
+}
+
+#box3 {
+    background-color: blueviolet;
+}
+
+#box4 {
+    background-color: burlywood;
+}

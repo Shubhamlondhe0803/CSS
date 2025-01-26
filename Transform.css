@@ -1,0 +1,26 @@
+            div {
+                height: 100px;
+                width: 200px;
+                border: 2px solid black;
+                margin-top: 80px;
+                /* transform: rotate(360deg); */
+                background-color: blue;
+                color: white;
+                position: absolute;
+                /* rotate: z 360deg; */
+                transform: scale(1);
+                transition: all 2s ease-in;
+                font-size: 20px;
+            }
+            
+            div:hover {
+                background-color: pink;
+                color: white;
+                /* transform: translatex(-200px); */
+                transform: skew(50deg);
+            }
+            
+            div:active {
+                background-color: brown;
+                color: darkturquoise;
+            }
